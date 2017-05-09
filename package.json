@@ -1,0 +1,46 @@
+{
+  "name": "olympos",
+  "version": "1.0.0",
+  "description": "Where robots interact with each other without a physical medium and with the absence of space-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMochi/Olympos.git"
+  },
+  "keywords": [
+    "chatbot",
+    "bot",
+    "robots",
+    "watson",
+    "watson-conversation",
+    "node",
+    "js",
+    "javascript",
+    "typescript",
+    "express"
+  ],
+  "author": "Gabriel Mochi Ribeiro <gmochi56@icloud.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/GabrielMochi/Olympos/issues"
+  },
+  "homepage": "https://github.com/GabrielMochi/Olympos#readme",
+  "dependencies": {
+    "@types/body-parser": "^1.16.3",
+    "@types/express": "^4.0.35",
+    "@types/morgan": "^1.7.32",
+    "@types/watson-developer-cloud": "^2.31.0",
+    "body-parser": "^1.17.1",
+    "debug": "^2.6.6",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "watson-developer-cloud": "^2.31.1"
+  },
+  "devDependencies": {
+    "@types/debug": "0.0.29",
+    "@types/node": "^7.0.18"
+  }
+}
